@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 public class LetterTile extends TextView {
 
-    public static final int TILE_SIZE = 100;
+    public static final int TILE_SIZE = 150;
     private Character letter;
     private boolean frozen;
 
